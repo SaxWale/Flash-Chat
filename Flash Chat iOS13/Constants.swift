@@ -1,11 +1,10 @@
 //
 //  Constants.swift
-//  Flash Chat iOS13
+//  Flash Chat 
 //
-//  Created by Angela Yu on 24/10/2019.
-//  Copyright © 2019 Angela Yu. All rights reserved.
+//  Created by SaxWale on 21/10/2019.
+//  Copyright © 2019 SaxWale Productions. All rights reserved.
 //
-
 struct K {
     static let appName = "⚡️FlashChat"
     static let cellIdentifier = "ReusableCell"

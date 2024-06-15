@@ -17,3 +17,4 @@ Flash Chat is an internet based messaging app similar to WhatsApp, the popular m
 * How to create direct Segues for navigation.
 
 * NOTE: Google-Service.plist file was removed for safety measures.
+* You need to create new Firebase keys and download new podfile to test the app.

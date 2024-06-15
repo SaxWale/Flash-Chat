@@ -1,6 +1,6 @@
 //
 //  ChatViewController.swift
-//  Flash Chat iOS13
+//  Flash Chat 
 //
 //  Created by SaxWale on 21/10/2019.
 //  Copyright © 2019 SaxWale Productions. All rights reserved.

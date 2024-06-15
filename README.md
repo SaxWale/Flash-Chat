@@ -15,3 +15,5 @@ Flash Chat is an internet based messaging app similar to WhatsApp, the popular m
 * Learn about Swift loops and create animations using loops.
 * Learn about the App Lifecycle and how to use viewWillAppear or viewWillDisappear.
 * How to create direct Segues for navigation.
+
+* NOTE: Google-Service.plist file was removed for safety measures.
